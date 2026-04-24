@@ -27,3 +27,4 @@ padding: 5px;
 p:hover {
 background-color: yellow;
 }
+td[colspan="3"] {
